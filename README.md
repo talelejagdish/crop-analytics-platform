@@ -722,7 +722,7 @@ Total: 2075ms (ML inference is bottleneck)
 
 ---
 
-## 🎓 **Architecture Skills Demonstrated**
+## 🎓 **Architectures**
 
 ### **Solution Architecture**
 ✅ End-to-end system design from requirements to deployment
@@ -908,26 +908,6 @@ GitHub Push → GitHub Actions
 - 90% reduction in production incidents
 
 ---
-
-## 📞 **Contact & Portfolio**
-
-**Your Name**
-**Cloud Application ML Solution Architect**
-
-📧 Email: your.email@example.com
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-💻 GitHub: [@yourusername](https://github.com/yourusername)
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
-### **Architecture Portfolio:**
-- 📐 [System Design Case Studies](docs/case-studies/)
-- 🏗️ [Architecture Decision Records](docs/adr/)
-- 📊 [Performance Benchmarks](docs/benchmarks/)
-- 🎨 [Architecture Diagrams](docs/diagrams/)
-
----
-
-**⭐ This project showcases production-ready solution architecture skills for enterprise cloud and ML systems. Star this repository if you find the architecture patterns useful! ⭐**
 
 ---
 
